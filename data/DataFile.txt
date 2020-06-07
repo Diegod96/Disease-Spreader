@@ -1,5 +1,0 @@
-Day: 5
-New Nodes: 1
-Total Nodes: 29
--------------------
-

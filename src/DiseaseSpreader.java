@@ -132,10 +132,8 @@ public class DiseaseSpreader {
         //Writing the Airport and Airport iD# into a 2D Array
         String fName = "data/Creation of network of the Spirit Air Route.csv";
         String thisLine;
-        int count = 0;
         FileInputStream fis = new FileInputStream(fName);
         DataInputStream myInput = new DataInputStream(fis);
-        int i = 0;
         List<String[]> lines = new ArrayList<String[]>();
 
         int index = 0;
